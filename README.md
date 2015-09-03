@@ -3,7 +3,7 @@
 * Mac OSX https://gorails.com/setup/osx/10.10-yosemite#ruby
 
 ### After Ruby Installation
-After instattion of Ruby run following command in the project directory
+After installing Ruby run following commands in the project directory
 ```sh
 % gem install bundler
 % bundle
